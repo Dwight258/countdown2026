@@ -77,10 +77,12 @@
                                 message1.style.opacity = 1;
                                 setTimeout(() => {
                                     message1.style.transform = 'translate(-50%, -150%)'; // 少し上に移動
+                                        setTimeout(() => {
                                     message2.style.opacity = 1;
                                     setTimeout(() => {
                                         audioElement.play(); // 音声再生開始
                                     }, 2000);
+                                  }, 2000);
                                 }, 5000); // 次のメッセージを3秒後に表示
                             }, 2000); // フェードアウトが完了した後
                         }, 2000); // 白い画面で2秒間待機
@@ -114,12 +116,14 @@ const countdownInterval = setInterval(updateCountdown, 1000);
             setTimeout(() => {
                 message1.style.opacity = 1;
                 setTimeout(() => {
-                    message1.style.transform = 'translate(-50%, -150%)'; // 少し上に移動
+                    message1.style.transform = 'translate(-50%, -150%)'; // 少し上に移動       
+                        setTimeout(() => {
                     message2.style.opacity = 1;
                     setTimeout(() => {
                         audioElement.play(); // 音声再生開始
                     }, 2000); // メッセージが表示されてから2秒後
-                }, 7000);
+                  }, 2000);
+                }, 5000);
             }, 2000);
         }
 
