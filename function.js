@@ -123,8 +123,8 @@ const countdownInterval = setInterval(updateCountdown, 1000);
                         audioElement.play(); // 音声再生開始
                     }, 2000); // メッセージが表示されてから2秒後
                   }, 3000);
-                }, 3000);
-            }, 2000);
+                }, 5000);
+            }, 3000);
         }
 
         const now = new Date();
