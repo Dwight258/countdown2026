@@ -81,7 +81,7 @@
                                     setTimeout(() => {
                                         audioElement.play(); // 音声再生開始
                                     }, 2000);
-                                }, 10000); // 次のメッセージを3秒後に表示
+                                }, 5000); // 次のメッセージを3秒後に表示
                             }, 2000); // フェードアウトが完了した後
                         }, 2000); // 白い画面で2秒間待機
                     }, { once: true });
@@ -119,7 +119,7 @@ const countdownInterval = setInterval(updateCountdown, 1000);
                     setTimeout(() => {
                         audioElement.play(); // 音声再生開始
                     }, 2000); // メッセージが表示されてから2秒後
-                }, 2000);
+                }, 7000);
             }, 2000);
         }
 
