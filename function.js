@@ -12,7 +12,7 @@
         preEndAudio.volume = 0.5;
         bgAudio.volume = 0.2;
 
-        bgAudio.loop = false;
+        bgAudio.loop = true;
         bgAudio.play();
 
         function updateCountdown() {
