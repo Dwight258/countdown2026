@@ -1,7 +1,7 @@
 This is for the 2026 countdown.
-The video and other information used is included below as acknowledgements.
+The video and other information used are included below as acknowledgements.
 
-We have used the following video and Sound effects for the countdown to 2026. Thank you so much!
+We have used the following video and sound effects for the 2026 countdown. Thank you very much!
 
 https://youtu.be/fvvQ00oVeJY
 
@@ -17,4 +17,4 @@ https://www2.nhk.or.jp/archives/movies/?id=D0002110014_00000 (ＮＨＫクリエ
 
 https://pocket-se.info/archives/1628/
 
-The video used will not be used for any purpose other than this countdown and publishing the site on github.
+The video will only be used for this countdown and for publishing the site on GitHub.
