@@ -17,4 +17,4 @@ https://www2.nhk.or.jp/archives/movies/?id=D0002110014_00000 (ＮＨＫクリエ
 
 https://pocket-se.info/archives/1628/
 
-The video will only be used for this countdown and for publishing the site on GitHub.
+The video and sound effects will only be used for this countdown and for publishing the site on GitHub.
