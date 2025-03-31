@@ -1,5 +1,5 @@
 This is for the 2026 countdown.
-The video and other information used are included below as acknowledgements.
+The video and other information used are included below as acknowledgments.
 
 We have used the following video and sound effects for the 2026 countdown. Thank you very much!
 
